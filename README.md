@@ -1,1 +1,1 @@
-# PrinsipBahasaPemograman
+# Latihan Paradigma Pemograman
